@@ -1,0 +1,22 @@
+body {
+  background-color: #E0E0E0;
+}
+
+.carousel-indicators li {
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+  margin-left: 10px;
+  top: 50px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+.carousel {
+  margin-top: 50px;
+}
+
+.col-md-4 {
+  padding-left: 0;
+  padding-right: 0;
+}
